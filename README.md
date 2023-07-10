@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @likemetamorfosys
+- 👀 I’m interested in develop apps, software, solve issues.
+- Also be part of this world. Hi world.
+- 🌱 I’m currently learning C++, Cryptography, Network Security.
+- 💞️ I’m looking to collaborate on vulnerabilities or develop funtions.
+- 📫 How to reach me walde3.1415@gmail.com
